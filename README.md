@@ -42,31 +42,31 @@ This project was completed using:
 
    ## Project Workflow
 
-  1. Data Loading
+1. Data Loading
 
   The dataset was loaded into Jupyter Notebook using Pandas.
 
-  2. Data Inspection
+2. Data Inspection
 
   The dataset structure, column names, and statistical information were checked.
 
-  3. Data Cleaning
+3. Data Cleaning
 
   Column formatting issues and categorical variables were handled before machine learning analysis.
 
-  4. Exploratory Data Analysis
+4. Exploratory Data Analysis
 
   Different graphs and charts were created to study customer financial behavior and loan approval patterns.
 
-  5. Loan Eligibility Estimation
+5. Loan Eligibility Estimation
 
   An estimated loan eligibility amount was calculated using customer income, credit score, dependents, and asset values.
 
-  6. Logistic Regression Model
+6. Logistic Regression Model
 
-  A Logistic Regression model was used to predict loan approval status.
+    A Logistic Regression model was used to predict loan approval status.
 
-  7. Model Evaluation
+7. Model Evaluation
    
   The model performance was evaluated using accuracy score, classification report, and confusion matrix.
 
