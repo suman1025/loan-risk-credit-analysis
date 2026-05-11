@@ -44,31 +44,31 @@ This project was completed using:
 
 1. Data Loading
 
-  The dataset was loaded into Jupyter Notebook using Pandas.
+   The dataset was loaded into Jupyter Notebook using Pandas.
 
 2. Data Inspection
 
-  The dataset structure, column names, and statistical information were checked.
+   The dataset structure, column names, and statistical information were checked.
 
 3. Data Cleaning
 
-  Column formatting issues and categorical variables were handled before machine learning analysis.
+   Column formatting issues and categorical variables were handled before machine learning analysis.
 
 4. Exploratory Data Analysis
 
-  Different graphs and charts were created to study customer financial behavior and loan approval patterns.
+   Different graphs and charts were created to study customer financial behavior and loan approval patterns.
 
 5. Loan Eligibility Estimation
 
-  An estimated loan eligibility amount was calculated using customer income, credit score, dependents, and asset values.
+   An estimated loan eligibility amount was calculated using customer income, credit score, dependents, and asset values.
 
 6. Logistic Regression Model
 
-    A Logistic Regression model was used to predict loan approval status.
+     A Logistic Regression model was used to predict loan approval status.
 
 7. Model Evaluation
    
-  The model performance was evaluated using accuracy score, classification report, and confusion matrix.
+   The model performance was evaluated using accuracy score, classification report, and confusion matrix.
 
 ## Key Findings
 
